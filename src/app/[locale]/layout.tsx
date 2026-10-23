@@ -29,12 +29,16 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const title = "Moadra Wiki - Guides, Secrets & Boss Tips";
+  const description = "Explore Moadra with gameplay guides, map and secret tips, ability upgrades, boss strategies, controls, and progression help for this sci-fi Metroidvania adventure.";
   return {
     metadataBase: new URL(siteUrl),
     applicationName: "Moadra Wiki",
-    title: { default: "Moadra Wiki - Guides, Secrets & Boss Tips", template: "%s" },
-    description: "Explore Moadra with gameplay guides, map and secret tips, ability upgrades, boss strategies, controls, and progression help for this sci-fi Metroidvania adventure.",
+    title: { default: title, template: "%s" },
+    description,
     manifest: "/manifest.json",
+    robots: { index: true, follow: true },
+    alternates: { canonical: `/${locale}`, languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])) },
     icons: {
       icon: [
         { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
@@ -45,8 +49,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     },
     appleWebApp: { capable: true, statusBarStyle: "black-translucent", title: "Moadra Wiki" },
     formatDetection: { telephone: false },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title, description, images: [{ url: image, width: 1920, height: 1080, alt: "Moadra Wiki key art" }] },
+    twitter: { card: "summary_large_image", title, description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -61,8 +65,10 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     "@type": "Organization",
     name: siteConfig.name,
     url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    description: siteConfig.description,
+    logo: { "@type": "ImageObject", url: `${siteUrl}/android-chrome-512x512.png`, width: 512, height: 512 },
+    image: { "@type": "ImageObject", url: `${siteUrl}/images/hero.webp`, width: 1920, height: 1080 },
+    sameAs: [siteConfig.social?.youtube, siteConfig.social?.discord].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
