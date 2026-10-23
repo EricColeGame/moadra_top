@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "release": "Release",
+    "platforms": "Platforms",
+    "combat": "Combat",
+    "reviews": "Reviews",
+    "media": "Media",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -28,7 +35,7 @@
       ],
       "primaryCta": "Play on Steam",
       "secondaryCta": "Beginner Guide",
-      "tertiaryCta": "Boss Guides",
+      "tertiaryCta": "Combat Guides",
       "videoLabel": "Official Launch Trailer"
     },
     "updates": {
@@ -371,7 +378,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Moadra Guides",
+    "overviewDescription": "Start with Moadra beginner guides, walkthroughs, survival tips, and ending help for Protea VI."
+  },
+  "release": {
+    "overviewTitle": "Moadra Release Coverage",
+    "overviewDescription": "Follow Moadra launch details, release dates, pricing, and platform availability for the October 22, 2026 debut."
+  },
+  "platforms": {
+    "overviewTitle": "Moadra Platforms & Pricing",
+    "overviewDescription": "Compare Moadra on Steam, PS5, Xbox Series X|S, and Nintendo Switch, including pricing and platform-specific details."
+  },
+  "combat": {
+    "overviewTitle": "Moadra Combat & Boss Guides",
+    "overviewDescription": "Learn Moadra combat timing, boss patterns, preparation routes, and survival tactics for every major fight."
+  },
+  "reviews": {
+    "overviewTitle": "Moadra Reviews & Impressions",
+    "overviewDescription": "Read Moadra reviews, demo impressions, Metacritic coverage, and tier-list analysis from Protea VI."
+  },
+  "media": {
+    "overviewTitle": "Moadra Trailers & Media",
+    "overviewDescription": "Watch and analyze Moadra trailers, launch footage, gameplay reveals, and media coverage."
+  },
+  "community": {
+    "overviewTitle": "Moadra Community & News",
+    "overviewDescription": "Track Moadra community discussion, developer news, demo updates, and launch-day reactions."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -402,9 +436,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Moadra Community",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "platformGuides": "Platform Guides",
+    "combatGuides": "Combat Guides",
+    "communityGuides": "Community",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
