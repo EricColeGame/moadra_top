@@ -1,14 +1,19 @@
 import Link from "next/link";
 import type { MDXComponents } from "mdx/types";
+import { slugifyHeading } from "@/lib/heading-slug";
+
+function nodeToText(node: React.ReactNode): string {
+  if (typeof node === "string" || typeof node === "number") return String(node);
+  if (Array.isArray(node)) return node.map(nodeToText).join("");
+  if (node && typeof node === "object" && "props" in node) {
+    const props = (node as { props?: { children?: React.ReactNode } }).props;
+    return nodeToText(props?.children);
+  }
+  return "";
+}
 
 function toHeadingId(children: React.ReactNode): string {
-  const text = String(children).replace(/<[^>]*>/g, "").trim();
-  return text
-    .toLowerCase()
-    .replace(/[^a-z0-9\s-]/g, "")
-    .replace(/\s+/g, "-")
-    .replace(/-+/g, "-")
-    .replace(/^-|-$/g, "");
+  return slugifyHeading(nodeToText(children));
 }
 
 export function useMDXComponents(components: MDXComponents): MDXComponents {

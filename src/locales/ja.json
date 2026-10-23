@@ -1,1 +1,448 @@
-{}
+{
+  "site": {
+    "name": "Moadra Wiki",
+    "shortName": "Moadra",
+    "tagline": "ガイド、秘密、ボス攻略、ウォークスルー",
+    "description": "Moadra の攻略ガイド、マップと秘密のヒント、能力強化、ボス戦略、操作、進行の助けを通して、SFメトロイドヴァニアの冒険を探索しましょう。",
+    "legalNotice": "独立した非公式ファンウィキです。Moadra および関連素材の権利は Gloomsoft に帰属します。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替える",
+    "guide": "ガイド",
+    "release": "リリース",
+    "platforms": "プラットフォーム",
+    "combat": "戦闘",
+    "reviews": "レビュー",
+    "media": "メディア",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Moadra Wiki - ガイド、秘密、ボス攻略",
+      "description": "Moadra の攻略ガイド、マップと秘密のヒント、能力強化、ボス戦略、操作、進行の助けを通して、SFメトロイドヴァニアの冒険を探索しましょう。"
+    },
+    "hero": {
+      "eyebrow": "ダークSFメトロイドヴァニア・アドベンチャー",
+      "title": "Moadra Wiki",
+      "description": "異星 Protea VI を探索し、敵対生物と戦い、隠しルートを見つけ、武器と能力を進化させ、Moadra の謎を解き明かしましょう。",
+      "stats": [
+        "発売日：2026年10月22日",
+        "対応機種：PC、PS5、Xbox Series X|S、Switch",
+        "開発：Gloomsoft",
+        "ジャンル：SFメトロイドヴァニア"
+      ],
+      "primaryCta": "Steam でプレイ",
+      "secondaryCta": "初心者ガイド",
+      "tertiaryCta": "戦闘ガイド",
+      "videoLabel": "公式ローンチトレーラー"
+    },
+    "updates": {
+      "title": "最新情報",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "Moadra の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "操作を設定し、初期アクションを試し、マップマーカーを覚え、Protea VI での最初の1時間は新しい敵を1体ずつ相手にしましょう。"
+        },
+        {
+          "number": "2",
+          "title": "能力強化",
+          "description": "倒した生物からプロトプラズムを集め、有機チェンバーで消費して変態を促し、Moadra の武器と能力を進化させましょう。"
+        },
+        {
+          "number": "3",
+          "title": "最初のボス準備",
+          "description": "体力と消耗品を補給し、使える強化を済ませ、アリーナをスキャンし、初回は攻撃の予備動作を学ぶために使いましょう。"
+        },
+        {
+          "number": "4",
+          "title": "マップと秘密",
+          "description": "スキャナーボットとX線視野で隠しルートを明らかにし、怪しい壁、天井の角、届かない足場を調べましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目の Moadra ガイド",
+      "quickLinks": [
+        "初心者ガイド",
+        "生存のヒント",
+        "ボスガイド",
+        "ウォークスルー"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "Moadra 初心者ガイド",
+          "description": "操作、マップ管理、守備的な戦闘、序盤の移動強化を軸に、最初の1時間のルーティンを作りましょう。",
+          "href": "/guide/moadra-beginner-guide"
+        },
+        {
+          "badge": "ヒント",
+          "title": "Moadra 生存のヒント",
+          "description": "Protea VI を読みやすくする移動、スキャナー、戦闘、プロトプラズムの習慣を身につけましょう。",
+          "href": "/guide/moadra-tips"
+        },
+        {
+          "badge": "戦闘",
+          "title": "Moadra ボスガイド",
+          "description": "装備を整え、アリーナをスキャンし、再現可能なパターン読みで多段階戦を生き延びましょう。",
+          "href": "/combat/moadra-boss-guide"
+        },
+        {
+          "badge": "探索",
+          "title": "Moadra ウォークスルー",
+          "description": "異星世界での探索フェーズ、能力の巡検、再訪ルート、秘密探しを計画しましょう。",
+          "href": "/guide/moadra-walkthrough"
+        },
+        {
+          "badge": "プラットフォーム",
+          "title": "Steam 版 Moadra",
+          "description": "PC要件、Steam Deck の対応状況、発売価格、体験版の有無、対応コントローラーを確認しましょう。",
+          "href": "/platforms/moadra-steam"
+        },
+        {
+          "badge": "ニュース",
+          "title": "Moadra ローンチニュース",
+          "description": "10月22日の発売、対応機種、主要システム、コミュニティの最初の反応を振り返りましょう。",
+          "href": "/community/moadra-game-news"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Moadra とは？",
+      "paragraphs": [
+        "Moadra は Gloomsoft によるダークSFメトロイドヴァニアで、大量絶滅から約2万年後の Protea VI を舞台にしています。相互につながる異星世界を探索し、失われた Neera の遺産を取り戻し、惑星に埋もれた秘密に立ち向かいましょう。",
+        "移動こそが生存です。ローリング、回避、跳躍、壁ジャンプ、ダッシュで過酷な地形を駆け抜け、スキャナーボットとX線視野で隠しルートを暴きましょう。倒した生物はプロトプラズムを落とし、有機チェンバーで消費すると変態が促され、Moadra の武器と能力が進化します。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "Gloomsoft"
+        },
+        {
+          "label": "発売日",
+          "value": "2026年10月22日"
+        },
+        {
+          "label": "ジャンル",
+          "value": "SFメトロイドヴァニア"
+        },
+        {
+          "label": "対応機種",
+          "value": "4"
+        },
+        {
+          "label": "舞台",
+          "value": "Protea VI"
+        },
+        {
+          "label": "Steam Deck",
+          "value": "検証済み"
+        }
+      ],
+      "cta": "Moadra ガイドを探索する"
+    },
+    "explore": {
+      "title": "Moadra Wiki を探索",
+      "description": "8つの厳選された Moadra ガイドで、序盤の過ごし方、プロトプラズム強化、ボス戦、探索、戦闘、操作、PC要件、ローンチ情報を網羅します。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Moadra 初心者ガイド",
+          "description": "Protea VI での最初の1時間のルーティンを学びましょう。操作を設定し、移動手段を試し、開始エリアをマップし、新しい敵には慎重に対応します。",
+          "href": "/guide/moadra-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "操作とアクセシビリティ設定を確認し、安全な部屋で攻撃、回避、跳躍のタイミングを試しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "マップの凡例を覚え、封鎖されたルートに印を付け、チェックポイントの見た目を把握しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "新しい敵は1種類ずつ相手にし、予備動作を観察してから再挑戦しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "序盤は移動と生存性の強化を優先し、不利な戦闘から逃げやすくしましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "新しい移動能力を得るたびに、印を付けた足場や封鎖ルートを再訪しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Moadra 能力・強化ガイド",
+          "description": "プロトプラズムの循環を理解し、移動、生存性、武器ダメージ、探索を向上させる強化を選びましょう。",
+          "href": "/guide/moadra-tips",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "不利な戦闘を勝ち切るより逃げ切る方が重要なので、移動と生存性の強化を最優先にしましょう。"
+            },
+            {
+              "label": "A",
+              "detail": "次は武器ダメージです。戦闘が短ければ、ミスする機会も減ります。"
+            },
+            {
+              "label": "B",
+              "detail": "移動と実用能力はショートカットを開き、Protea VI の再訪を速くします。"
+            },
+            {
+              "label": "C",
+              "detail": "専門ツールは状況依存ですが、特定の脅威や封鎖ルートへの答えになります。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Moadra ボスガイド",
+          "description": "万全の資源、アリーナのスキャン、読みやすい予備動作、フェーズ移行の計画で多段階戦に備えましょう。",
+          "href": "/combat/moadra-boss-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "偵察",
+              "detail": "ダメージを狙わず、偵察の一戦で攻撃パターンを観察しましょう。"
+            },
+            {
+              "label": "スキャン",
+              "detail": "交戦前にX線でアリーナを走査し、危険、足場、安全地帯を確認しましょう。"
+            },
+            {
+              "label": "フェーズ",
+              "detail": "移行のたびに距離を取り、新しいパターンを覚えてから攻撃の隙を探しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Moadra マップと秘密",
+          "description": "部屋をスキャンし、怪しい表面を調べ、行き止まりを近道に変える移動ツールを持ち帰ることで、Protea VI をパズルのように読み解きましょう。",
+          "href": "/guide/moadra-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "壁",
+              "detail": "長い空白の壁に跳躍や壁ジャンプを試し、隠された縦ルートを探しましょう。"
+            },
+            {
+              "label": "天井",
+              "detail": "天井の角やひび割れた表面を調べ、壊せる通路を見つけましょう。"
+            },
+            {
+              "label": "マップの隙間",
+              "detail": "主要な部屋を抜けたらマップを開き、探索済みエリアの隙間を調査しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Moadra 武器・戦闘ガイド",
+          "description": "撃ち合いではなく、間合い、予備動作、遠距離手段、移動手段を組み合わせた安定した戦闘リズムを作りましょう。",
+          "href": "/combat/moadra-boss-fight",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "間合い",
+              "detail": "開けた部屋で戦い、ローリング、回避、壁ジャンプのルートを確保しましょう。"
+            },
+            {
+              "label": "予備動作",
+              "detail": "攻撃そのものではなく予備動作に反応し、硬直を罰しましょう。"
+            },
+            {
+              "label": "武器活用",
+              "detail": "すべての選択肢を後のボス用に残さず、遠距離と近接を組み合わせて使いましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Moadra 操作と設定",
+          "description": "精密なプラットフォーミングで入力ミスの代償が大きくなる前に、入力対応、アクセシビリティ、操作体系を確認しましょう。",
+          "href": "/guide/moadra-demo-walkthrough",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "入力",
+              "detail": "Xbox、DualSense、DualShock のゲームパッドに対応していますが、DualShock は USB 接続のみです。"
+            },
+            {
+              "label": "テキスト",
+              "detail": "文字サイズと字幕を調整でき、スキャナーデータや物語の会話を読みやすく保てます。"
+            },
+            {
+              "label": "QTEなし",
+              "detail": "QTEなしの設定を有効にすると、キャンペーン中のクイックタイムイベント入力を除外できます。"
+            },
+            {
+              "label": "音声",
+              "detail": "チャンネル別の音量調整で、音楽に埋もれず敵の音の手がかりを聞き取れます。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Moadra システム要件",
+          "description": "Windows、メモリ、グラフィック、DirectX、ストレージを含む Moadra の最低・推奨PC要件を比較しましょう。",
+          "href": "/platforms/moadra-steam",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "最低",
+              "detail": "Windows 10 または 11 の64ビット、クアッドコアCPU、4 GB RAM、GTX 900シリーズのグラフィックカード。"
+            },
+            {
+              "label": "推奨",
+              "detail": "Windows 10 または 11 の64ビット、Intel Core i3-8100、8 GB RAM、GTX 970 4GB。"
+            },
+            {
+              "label": "Deck",
+              "detail": "Moadra は Steam Deck 検証済みで、PCでは9 GBの空きストレージが必要です。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Moadra ニュースと更新",
+          "description": "公式ニュースチャンネルで、2026年10月22日の発売、対応機種、更新された体験版、今後の Moadra パッチノートを追いましょう。",
+          "href": "/community/moadra-game-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ローンチ",
+              "detail": "Moadra は2026年10月22日に PS5、Xbox Series、Switch、Steam 経由のPCで発売されました。"
+            },
+            {
+              "label": "体験版",
+              "detail": "無料の Steam 体験版には、製品版と同じ改善が反映されました。"
+            },
+            {
+              "label": "パッチ",
+              "detail": "バランス調整やゲームプレイの更新は、Gloomsoft の公式チャンネルとストアのパッチノートで確認しましょう。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Moadra よくある質問",
+      "description": "Moadra の舞台、対応機種、進行、スキャナー、難易度、体験版について直接回答します。",
+      "items": [
+        {
+          "question": "Moadra とは何ですか？",
+          "answer": "Moadra は Gloomsoft によるダークSFメトロイドヴァニアです。大量絶滅から約2万年後の Protea VI を舞台に、相互につながる異星世界で失われた Neera の遺産を探す物語です。"
+        },
+        {
+          "question": "Moadra はどの機種で遊べますか？",
+          "answer": "Moadra は2026年10月22日に PlayStation 5、Xbox Series、Nintendo Switch、Steam 経由のPCで発売されました。"
+        },
+        {
+          "question": "Moadra の進行システムはどうなっていますか？",
+          "answer": "倒した生物はプロトプラズムを落とします。Moadra はそれを吸収し、有機チェンバー内で消費して変態を促し、武器と能力を進化させます。"
+        },
+        {
+          "question": "Moadra のスキャナーボットには何ができますか？",
+          "answer": "Moadra のスキャナーボットはX線視野で生物や地形を調べ、隠しルートを明らかにし、Protea VI の探索済みエリアのマップ作りを助けます。"
+        },
+        {
+          "question": "Moadra は難しいゲームですか？",
+          "answer": "Moadra は困難で回避重視の戦闘と精密なプラットフォーミングを中心に設計されています。移動手段、アクセシビリティ設定、強化の循環が、戦闘に対処するための道具となります。"
+        },
+        {
+          "question": "Moadra に体験版はありますか？",
+          "answer": "はい。無料の Moadra 体験版が Steam で配信されており、製品版に含まれる改善が反映されています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Protea VI を探索する準備はできましたか？",
+      "description": "初心者ガイド、ボス戦略、能力強化、秘密を携えて、Moadra の旅のあらゆる場面に飛び込みましょう。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Moadra ガイド",
+    "overviewDescription": "Moadra の初心者ガイド、ウォークスルー、生存のヒント、Protea VI のエンディング攻略から始めましょう。"
+  },
+  "release": {
+    "overviewTitle": "Moadra リリース情報",
+    "overviewDescription": "2026年10月22日の発売に向けた Moadra のローンチ詳細、発売日、価格、対応機種を追いましょう。"
+  },
+  "platforms": {
+    "overviewTitle": "Moadra 対応機種と価格",
+    "overviewDescription": "Steam、PS5、Xbox Series X|S、Nintendo Switch 版の Moadra を、価格や機種別の詳細とともに比較しましょう。"
+  },
+  "combat": {
+    "overviewTitle": "Moadra 戦闘・ボスガイド",
+    "overviewDescription": "Moadra の戦闘タイミング、ボスのパターン、準備ルート、主要な戦闘を生き抜く戦術を学びましょう。"
+  },
+  "reviews": {
+    "overviewTitle": "Moadra レビュー・感想",
+    "overviewDescription": "Protea VI に関する Moadra のレビュー、体験版の感想、Metacritic 情報、ティアリスト分析を読みましょう。"
+  },
+  "media": {
+    "overviewTitle": "Moadra トレーラー・メディア",
+    "overviewDescription": "Moadra のトレーラー、ローンチ映像、ゲームプレイ公開、メディア報道を視聴して分析しましょう。"
+  },
+  "community": {
+    "overviewTitle": "Moadra コミュニティ・ニュース",
+    "overviewDescription": "Moadra のコミュニティ議論、開発者ニュース、体験版の更新、発売日の反応を追いましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnSteam": "Steam でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "利用できるガイドはまだありません。近日公開をお待ちください。",
+    "pageNotFoundTitle": "ページが見つかりません",
+    "pageNotFoundDescription": "お探しのガイドは移動したか、まだ追加されていない可能性があります。",
+    "browseCombatGuides": "戦闘ガイドを見る"
+  },
+  "footer": {
+    "aboutTitle": "Moadra Wiki",
+    "about": "Moadra Wiki は、探索ルート、ボス、能力、強化、秘密、そして新旧プレイヤーに役立つゲーム知識を扱う独立系ファン制作のガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Moadra Wiki。Gloomsoft とは提携していません。",
+    "description": "Protea VI を舞台にしたダークSFメトロイドヴァニア、Moadra の独立系ガイド。",
+    "playGame": "Steam でプレイ",
+    "officialDiscord": "Steam コミュニティ",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "Moadra コミュニティ",
+    "beginnerGuide": "初心者ガイド",
+    "platformGuides": "プラットフォームガイド",
+    "combatGuides": "戦闘ガイド",
+    "communityGuides": "コミュニティ",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

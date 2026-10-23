@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://steamcommunity.com/app/1713730",
     youtube: "https://www.youtube.com/@Gloomsoft",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "de", "fr"],
   defaultLocale: "en",
 };

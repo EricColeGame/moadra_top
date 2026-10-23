@@ -16,6 +16,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const dynamicPaths = contentPaths.map((item) => `/${[item.contentType, ...item.slug].join("/")}`);
 
   const paths = [...staticPaths, ...dynamicPaths];
+  const languageAlternates = Object.fromEntries([
+    ...routing.locales.map((locale) => [locale, `/${locale}`]),
+    ["x-default", `/${routing.defaultLocale}`],
+  ]);
 
   return routing.locales.flatMap((locale) =>
     paths.map((path) => ({
@@ -23,6 +27,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: path === "/" ? ("daily" as const) : ("weekly" as const),
       priority: path === "/" ? 1 : path === "/guide" ? 0.8 : 0.6,
+      alternates: {
+        languages: Object.fromEntries(
+          Object.entries(languageAlternates).map(([key, localizedPath]) => [
+            key,
+            `${siteUrl}${localizedPath}${path === "/" ? "" : path}`,
+          ]),
+        ),
+      },
     })),
   );
 }

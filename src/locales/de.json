@@ -1,1 +1,448 @@
-{}
+{
+  "site": {
+    "name": "Moadra Wiki",
+    "shortName": "Moadra",
+    "tagline": "Guides, Geheimnisse, Boss-Tipps & Komplettlösungen",
+    "description": "Erkunde Moadra mit Gameplay-Guides, Karten- und Geheimtipps, Fähigkeits-Upgrades, Bossstrategien, Steuerung und Fortschrittshilfe für dieses Sci-Fi-Metroidvania-Abenteuer.",
+    "legalNotice": "Unabhängiges, nicht offizielles Fan-Wiki. Moadra und zugehörige Inhalte gehören Gloomsoft."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Theme wechseln",
+    "guide": "Guides",
+    "release": "Release",
+    "platforms": "Plattformen",
+    "combat": "Kampf",
+    "reviews": "Tests",
+    "media": "Medien",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Moadra Wiki – Guides, Geheimnisse & Boss-Tipps",
+      "description": "Erkunde Moadra mit Gameplay-Guides, Karten- und Geheimtipps, Fähigkeits-Upgrades, Bossstrategien, Steuerung und Fortschrittshilfe für dieses Sci-Fi-Metroidvania-Abenteuer."
+    },
+    "hero": {
+      "eyebrow": "Dunkles Sci-Fi-Metroidvania-Abenteuer",
+      "title": "Moadra Wiki",
+      "description": "Erkunde die fremde Welt Protea VI, bekämpfe feindliche Kreaturen, entdecke verborgene Pfade, entwickle Waffen und Fähigkeiten weiter und lüfte die Geheimnisse von Moadra.",
+      "stats": [
+        "Erscheinungsdatum: 22. Oktober 2026",
+        "Plattformen: PC, PS5, Xbox Series X|S & Switch",
+        "Entwickler: Gloomsoft",
+        "Genre: Sci-Fi-Metroidvania"
+      ],
+      "primaryCta": "Auf Steam spielen",
+      "secondaryCta": "Einsteigerguide",
+      "tertiaryCta": "Kampf-Guides",
+      "videoLabel": "Offizieller Launch-Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Moadra-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteigerguide",
+          "description": "Richte die Steuerung ein, teste deine Startbewegungen, lerne die Kartenmarker und nimm dir in deiner ersten Stunde auf Protea VI immer nur einen neuen Gegnertyp vor."
+        },
+        {
+          "number": "2",
+          "title": "Fähigkeits-Upgrades",
+          "description": "Sammle Protoplasma aus zerstörten Kreaturen und gib es in organischen Kammern aus, um die Metamorphose auszulösen und Moadras Waffen und Fähigkeiten weiterzuentwickeln."
+        },
+        {
+          "number": "3",
+          "title": "Vorbereitung auf den ersten Boss",
+          "description": "Fülle Leben und Verbrauchsgüter auf, investiere verfügbare Upgrades, scanne die Arena und nutze den ersten Versuch, um die Angriffsvorwarnungen zu lernen."
+        },
+        {
+          "number": "4",
+          "title": "Karte & Geheimnisse",
+          "description": "Nutze den Scanner-Bot und den Röntgenblick, um verborgene Pfade zu enthüllen, und prüfe dann verdächtige Wände, Deckenecken und unerreichbare Vorsprünge."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Moadra-Guides im Fokus",
+      "quickLinks": [
+        "Einsteigerguide",
+        "Überlebenstipps",
+        "Boss-Guide",
+        "Komplettlösung"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Moadra Einsteigerguide",
+          "description": "Baue deine erste Stunde um Steuerung, Kartenarbeit, defensiven Kampf und frühe Fortbewegungs-Upgrades auf.",
+          "href": "/guide/moadra-beginner-guide"
+        },
+        {
+          "badge": "Tipps",
+          "title": "Moadra Überlebenstipps",
+          "description": "Lerne die Bewegungs-, Scanner-, Kampf- und Protoplasma-Gewohnheiten, mit denen sich Protea VI leichter lesen lässt.",
+          "href": "/guide/moadra-tips"
+        },
+        {
+          "badge": "Kampf",
+          "title": "Moadra Boss-Guide",
+          "description": "Bereite deine Ausrüstung vor, scanne die Arena und überlebe mehrphasige Kämpfe mit einem wiederholbaren Plan zum Musterlesen.",
+          "href": "/combat/moadra-boss-guide"
+        },
+        {
+          "badge": "Erkundung",
+          "title": "Moadra Komplettlösung",
+          "description": "Plane Erkundungsphasen, Fähigkeitsdurchläufe, Rückwege und die Suche nach Geheimnissen in der fremden Welt.",
+          "href": "/guide/moadra-walkthrough"
+        },
+        {
+          "badge": "Plattform",
+          "title": "Moadra auf Steam",
+          "description": "Prüfe PC-Anforderungen, Steam-Deck-Status, Startpreis, Demo-Verfügbarkeit und unterstützte Controller.",
+          "href": "/platforms/moadra-steam"
+        },
+        {
+          "badge": "Neuigkeiten",
+          "title": "Moadra-Launch-News",
+          "description": "Lies alles zum Start am 22. Oktober, zur Plattformauswahl, zu den Kernsystemen und zur ersten Welle der Community-Rückmeldungen.",
+          "href": "/community/moadra-game-news"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Moadra?",
+      "paragraphs": [
+        "Moadra ist ein düsteres Sci-Fi-Metroidvania von Gloomsoft, das rund 20.000 Jahre nach einem Aussterbeereignis auf Protea VI spielt. Du erkundest eine miteinander verbundene fremde Welt, bergst das verlorene Erbe der Neera und stellst dich dem vergrabenen Geheimnis des Planeten.",
+        "Bewegung ist Überleben: Rolle, weiche aus, springe, führe Wandsprünge aus und sprenge durch feindliches Gelände, während der Scanner-Bot und der Röntgenblick verborgene Routen sichtbar machen. Zerstörte Organismen hinterlassen Protoplasma, das du in organischen Kammern ausgibst, um die Metamorphose auszulösen und Moadras Waffen und Fähigkeiten weiterzuentwickeln."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Gloomsoft"
+        },
+        {
+          "label": "Erscheinungsdatum",
+          "value": "22. Oktober 2026"
+        },
+        {
+          "label": "Genre",
+          "value": "Sci-Fi-Metroidvania"
+        },
+        {
+          "label": "Plattformen",
+          "value": "4"
+        },
+        {
+          "label": "Schauplatz",
+          "value": "Protea VI"
+        },
+        {
+          "label": "Steam Deck",
+          "value": "Verifiziert"
+        }
+      ],
+      "cta": "Moadra-Guides erkunden"
+    },
+    "explore": {
+      "title": "Moadra Wiki erkunden",
+      "description": "Acht gezielte Moadra-Guides decken die ersten Stunden, Protoplasma-Upgrades, Bosskämpfe, Erkundung, Kampf, Steuerung, PC-Anforderungen und Launch-Neuigkeiten ab.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Moadra Einsteigerguide",
+          "description": "Lerne die Routine für die erste Stunde auf Protea VI: Steuerung einrichten, Bewegungsset testen, Startgebiet kartieren und neuen Gegnern geduldig begegnen.",
+          "href": "/guide/moadra-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Prüfe Steuerungs- und Barrierefreiheitsoptionen und teste dann Angriff, Ausweichen und Sprung in einem sicheren Raum."
+            },
+            {
+              "label": "2",
+              "detail": "Lerne die Kartenlegende, markiere gesperrte Routen und erkenne, wie ein Kontrollpunkt aussieht."
+            },
+            {
+              "label": "3",
+              "detail": "Kämpfe immer nur gegen einen neuen Gegnertyp und beobachte seine Vorwarnung, bevor du einen zweiten Versuch startest."
+            },
+            {
+              "label": "4",
+              "detail": "Priorisiere früh Mobilitäts- und Überlebens-Upgrades, damit du aus schlechten Kämpfen leichter entkommst."
+            },
+            {
+              "label": "5",
+              "detail": "Kehre nach jeder neuen Fortbewegungsfähigkeit zu markierten Vorsprüngen und versiegelten Pfaden zurück."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Moadra-Guide für Fähigkeiten und Upgrades",
+          "description": "Verstehe den Protoplasma-Kreislauf und wähle Upgrades, die Mobilität, Überlebensfähigkeit, Waffenschaden und Fortbewegung verbessern.",
+          "href": "/guide/moadra-tips",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Mobilitäts- und Überlebens-Upgrades kommen zuerst, denn aus einem schlechten Kampf zu entkommen ist besser, als ihn gewinnen zu wollen."
+            },
+            {
+              "label": "A",
+              "detail": "Waffenschaden ist der nächste Schritt: Kürzere Kämpfe bieten weniger Gelegenheiten für Fehler."
+            },
+            {
+              "label": "B",
+              "detail": "Fortbewegungs- und Nutzfähigkeiten öffnen Abkürzungen und machen Rückwege durch Protea VI schneller."
+            },
+            {
+              "label": "C",
+              "detail": "Spezialwerkzeuge sind situationsabhängig, lösen aber bestimmte Bedrohungen und blockierte Routen."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Moadra Boss-Guide",
+          "description": "Bereite dich mit vollen Ressourcen, Arena-Scans, lesbaren Vorwarnungen und einem kontrollierten Plan für Phasenwechsel auf mehrphasige Begegnungen vor.",
+          "href": "/combat/moadra-boss-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Spähen",
+              "detail": "Nutze einen Erkundungsversuch, um Angriffsmuster zu beobachten, ohne Schaden erzwingen zu wollen."
+            },
+            {
+              "label": "Scannen",
+              "detail": "Scanne die Arena vor dem Kampf per Röntgenblick nach Gefahren, Vorsprüngen und sicheren Zonen."
+            },
+            {
+              "label": "Phasen",
+              "detail": "Schaffe bei jedem Wechsel Abstand, lerne das neue Muster und suche dann nach Schadensfenstern."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Moadra-Karte und Geheimnisse",
+          "description": "Lies Protea VI wie ein Rätsel, indem du Räume scannst, verdächtige Oberflächen prüfst und mit Fortbewegungswerkzeugen zurückkehrst, die Sackgassen in Abkürzungen verwandeln.",
+          "href": "/guide/moadra-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wände",
+              "detail": "Teste lange leere Wände mit Sprüngen und Wandsprüngen auf verborgene vertikale Routen."
+            },
+            {
+              "label": "Decken",
+              "detail": "Prüfe Deckenecken und rissige Oberflächen auf zerstörbare Durchgänge."
+            },
+            {
+              "label": "Kartenlücken",
+              "detail": "Öffne die Karte nach größeren Räumen und untersuche Lücken zwischen erkundeten Gebieten."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Moadra Waffen- und Kampf-Guide",
+          "description": "Baue einen verlässlichen Kampfrhythmus um Abstand, Vorwarnungen, Fernkampfoptionen und das volle Bewegungsset auf, statt Treffer zu tauschen.",
+          "href": "/combat/moadra-boss-fight",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Abstand",
+              "detail": "Kämpfe in offenen Räumen und halte Routen für Rolle, Ausweichen und Wandsprung frei."
+            },
+            {
+              "label": "Vorwarnung",
+              "detail": "Reagiere auf die Ausholbewegung statt auf den Treffer und bestrafe anschließend die Erholungsphase."
+            },
+            {
+              "label": "Arsenal",
+              "detail": "Nutze Fern- und Nahkampfwerkzeuge gemeinsam, statt jede Option für einen späteren Boss aufzusparen."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Moadra Steuerung und Einstellungen",
+          "description": "Prüfe Eingabeunterstützung, passe Barrierefreiheitsoptionen an und richte das Steuerungsschema ein, bevor präzises Plattformspiel die Kosten eines Fehleingabe erhöht.",
+          "href": "/guide/moadra-demo-walkthrough",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Eingabe",
+              "detail": "Xbox-, DualSense- und DualShock-Gamepads werden unterstützt, wobei DualShock nur per USB aufgeführt ist."
+            },
+            {
+              "label": "Text",
+              "detail": "Anpassbare Textgröße und Untertiteloptionen halten Scannerdaten und Story-Dialoge lesbar."
+            },
+            {
+              "label": "Ohne QTE",
+              "detail": "Aktiviere die Option ohne QTE, um Quick-Time-Event-Eingaben aus der Kampagne zu entfernen."
+            },
+            {
+              "label": "Audio",
+              "detail": "Nutze die Lautstärkeregler pro Kanal, damit akustische Gegnerhinweise über der Musik hörbar bleiben."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Moadra Systemanforderungen",
+          "description": "Vergleiche die minimalen und empfohlenen PC-Anforderungen für Moadra, einschließlich Windows, Arbeitsspeicher, Grafik, DirectX und Speicherplatz.",
+          "href": "/platforms/moadra-steam",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Minimum",
+              "detail": "Windows 10 oder 11 in 64 Bit, ein Quad-Core-Prozessor, 4 GB RAM und eine Grafikkarte der GTX-900-Serie."
+            },
+            {
+              "label": "Empf.",
+              "detail": "Windows 10 oder 11 in 64 Bit, ein Intel Core i3-8100, 8 GB RAM und eine GTX 970 mit 4 GB."
+            },
+            {
+              "label": "Steam Deck",
+              "detail": "Moadra ist für Steam Deck verifiziert und benötigt auf dem PC 9 GB freien Speicherplatz."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Moadra-News und Updates",
+          "description": "Verfolge über die offiziellen Nachrichtenkanäle den Start am 22. Oktober 2026, die Plattformverfügbarkeit, die aktualisierte Demo und künftige Moadra-Patch-Notizen.",
+          "href": "/community/moadra-game-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Start",
+              "detail": "Moadra erschien am 22. Oktober 2026 für PS5, Xbox Series, Switch und PC über Steam."
+            },
+            {
+              "label": "Testversion",
+              "detail": "Die kostenlose Steam-Demo erhielt dieselben Verbesserungen wie die Launch-Version."
+            },
+            {
+              "label": "Update",
+              "detail": "Verfolge Balanceänderungen und Gameplay-Updates über Gloomsofts offizielle Kanäle und die Patch-Notizen im Store."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Moadra FAQ",
+      "description": "Direkte Antworten zu Moadras Schauplatz, Plattformen, Fortschritt, Scanner, Schwierigkeit und Demo.",
+      "items": [
+        {
+          "question": "Was ist Moadra?",
+          "answer": "Moadra ist ein düsteres Sci-Fi-Metroidvania von Gloomsoft. Es spielt rund 20.000 Jahre nach einem Aussterbeereignis auf Protea VI und folgt der Suche nach dem verlorenen Erbe der Neera in einer miteinander verbundenen fremden Welt."
+        },
+        {
+          "question": "Auf welchen Plattformen kann man Moadra spielen?",
+          "answer": "Moadra erschien am 22. Oktober 2026 für PlayStation 5, Xbox Series, Nintendo Switch und PC über Steam."
+        },
+        {
+          "question": "Wie funktioniert der Fortschritt in Moadra?",
+          "answer": "Zerstörte Organismen hinterlassen Protoplasma. Moadra absorbiert es und gibt es in organischen Kammern aus, um die Metamorphose auszulösen und Waffen sowie Fähigkeiten weiterzuentwickeln."
+        },
+        {
+          "question": "Was macht der Scanner-Bot in Moadra?",
+          "answer": "Der Scanner-Bot von Moadra nutzt den Röntgenblick, um Kreaturen und Gelände zu untersuchen, verborgene Pfade zu enthüllen und die Kartierung erkundeter Gebiete von Protea VI zu unterstützen."
+        },
+        {
+          "question": "Ist Moadra ein schwieriges Spiel?",
+          "answer": "Moadra ist auf schwierigen, ausweichenden Kampf und präzises Plattformspiel ausgelegt. Bewegungsset, Barrierefreiheitsoptionen und der Upgrade-Kreislauf geben Spielern Werkzeuge, um Begegnungen zu meistern."
+        },
+        {
+          "question": "Gibt es eine Demo von Moadra?",
+          "answer": "Ja. Eine kostenlose Moadra-Demo ist auf Steam verfügbar und wurde mit denselben Verbesserungen wie die Launch-Version aktualisiert."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Protea VI zu erkunden?",
+      "description": "Tauche mit Einsteigerguides, Bossstrategien, Fähigkeits-Upgrades und Geheimnissen in jeden Abschnitt deiner Moadra-Reise ein.",
+      "primary": "Einsteigerguide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Moadra-Guides",
+    "overviewDescription": "Beginne mit Moadra-Einsteigerguides, Komplettlösungen, Überlebenstipps und Endings-Hilfe für Protea VI."
+  },
+  "release": {
+    "overviewTitle": "Moadra Release-Berichterstattung",
+    "overviewDescription": "Verfolge Launch-Details, Erscheinungsdaten, Preise und Plattformverfügbarkeit von Moadra zum Start am 22. Oktober 2026."
+  },
+  "platforms": {
+    "overviewTitle": "Moadra Plattformen & Preise",
+    "overviewDescription": "Vergleiche Moadra auf Steam, PS5, Xbox Series X|S und Nintendo Switch, einschließlich Preisen und plattformspezifischen Details."
+  },
+  "combat": {
+    "overviewTitle": "Moadra Kampf- & Boss-Guides",
+    "overviewDescription": "Lerne Kampftiming, Bossmuster, Vorbereitungsrouten und Überlebenstaktiken für jeden wichtigen Kampf in Moadra."
+  },
+  "reviews": {
+    "overviewTitle": "Moadra Tests & Eindrücke",
+    "overviewDescription": "Lies Moadra-Tests, Demo-Eindrücke, Metacritic-Berichterstattung und Tier-Listen-Analysen zu Protea VI."
+  },
+  "media": {
+    "overviewTitle": "Moadra Trailer & Medien",
+    "overviewDescription": "Sieh dir Moadra-Trailer, Launch-Material, Gameplay-Enthüllungen und Medienberichte an und analysiere sie."
+  },
+  "community": {
+    "overviewTitle": "Moadra-Community & Neuigkeiten",
+    "overviewDescription": "Verfolge Community-Diskussionen, Entwicklerneuigkeiten, Demo-Updates und Reaktionen zum Launch von Moadra."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnSteam": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Ähnliche Beiträge",
+    "relatedGuides": "Ähnliche Guides",
+    "readMore": "Weiterlesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!",
+    "pageNotFoundTitle": "Seite nicht gefunden",
+    "pageNotFoundDescription": "Der gesuchte Guide wurde möglicherweise verschoben oder noch nicht hinzugefügt.",
+    "browseCombatGuides": "Kampf-Guides durchsuchen"
+  },
+  "footer": {
+    "aboutTitle": "Moadra Wiki",
+    "about": "Moadra Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Erkundungsrouten, Bossen, Fähigkeiten, Upgrades, Geheimnissen und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Moadra Wiki. Nicht mit Gloomsoft verbunden.",
+    "description": "Unabhängige Guides zu Moadra, dem düsteren Sci-Fi-Metroidvania auf Protea VI.",
+    "playGame": "Auf Steam spielen",
+    "officialDiscord": "Steam-Community",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Moadra-Community",
+    "beginnerGuide": "Einsteigerguide",
+    "platformGuides": "Plattform-Guides",
+    "combatGuides": "Kampf-Guides",
+    "communityGuides": "Community",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
