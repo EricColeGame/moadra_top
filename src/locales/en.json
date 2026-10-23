@@ -43,288 +43,324 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Set up controls, test your starting moves, learn the map markers, and take one new enemy at a time during your first hour on Protea VI."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Ability Upgrades",
+          "description": "Collect Protoplasm from destroyed creatures and spend it in organic chambers to trigger metamorphosis and evolve Moadra's weapons and abilities."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "First Boss Prep",
+          "description": "Refill health and consumables, spend available upgrades, scan the arena, and use the first attempt to learn attack tells."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Moadra."
+          "title": "Map & Secrets",
+          "description": "Use the scanner bot and X-ray vision to reveal hidden paths, then test suspicious walls, ceiling corners, and unreachable ledges."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Moadra Guides in Focus",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Survival Tips",
+        "Boss Guide",
+        "Walkthrough"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Moadra Beginner Guide",
+          "description": "Build a first-hour routine around controls, map discipline, defensive combat, and early traversal upgrades.",
+          "href": "/guide/moadra-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Tips",
+          "title": "Moadra Survival Tips",
+          "description": "Learn the movement, scanner, combat, and Protoplasm habits that make Protea VI easier to read.",
+          "href": "/guide/moadra-tips"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Combat",
+          "title": "Moadra Boss Guide",
+          "description": "Prepare a loadout, scan the arena, and survive multi-phase fights with a repeatable pattern-reading plan.",
+          "href": "/combat/moadra-boss-guide"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Exploration",
+          "title": "Moadra Walkthrough",
+          "description": "Plan exploration phases, ability sweeps, backtracking passes, and secret hunting across the alien world.",
+          "href": "/guide/moadra-walkthrough"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Platform",
+          "title": "Moadra on Steam",
+          "description": "Check the PC requirements, Steam Deck status, launch price, demo availability, and supported controllers.",
+          "href": "/platforms/moadra-steam"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "News",
+          "title": "Moadra Launch News",
+          "description": "Review the October 22 launch, platform lineup, core systems, and the first wave of community feedback.",
+          "href": "/community/moadra-game-news"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Moadra?",
       "paragraphs": [
-        "Moadra is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Moadra is a dark sci-fi Metroidvania from Gloomsoft, set on Protea VI roughly 20,000 years after an extinction event. You explore an interconnected alien world, recover the lost Neera heritage, and confront the planet's buried secrets.",
+        "Movement is survival: roll, dodge, leap, wall jump, and sprint through hostile terrain while the scanner bot and X-ray vision expose hidden routes. Destroyed organisms drop Protoplasm, which you spend in organic chambers to trigger metamorphosis and evolve Moadra's weapons and abilities."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Gloomsoft"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Release Date",
+          "value": "Oct 22, 2026"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Sci-Fi Metroidvania"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Platforms",
+          "value": "4"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Setting",
+          "value": "Protea VI"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Steam Deck",
+          "value": "Verified"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Explore Moadra Guides"
     },
     "explore": {
       "title": "Explore Moadra Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Eight focused Moadra guides cover the opening hours, Protoplasm upgrades, boss fights, exploration, combat, controls, PC specifications, and launch news.",
       "modules": [
         {
           "order": 1,
-          "name": "Moadra Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/moadra-codes",
-          "displayType": "code-box",
+          "name": "Moadra Beginner Guide",
+          "description": "Learn the first-hour routine for Protea VI: set up controls, test the movement kit, map the opening zone, and approach new enemies with patience.",
+          "href": "/guide/moadra-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Check control and accessibility settings, then test attack, dodge, and jump timing in a safe room."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Learn the map legend, mark locked routes, and identify what a checkpoint looks like."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Fight one new enemy type at a time and watch its wind-up before committing to a second attempt."
+            },
+            {
+              "label": "4",
+              "detail": "Prioritize mobility and survivability upgrades early so bad fights are easier to escape."
+            },
+            {
+              "label": "5",
+              "detail": "Revisit marked ledges and sealed paths after each new traversal ability."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/moadra-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Moadra Abilities and Upgrade Guide",
+          "description": "Understand the Protoplasm loop and choose upgrades that improve mobility, survivability, weapon damage, and traversal.",
+          "href": "/guide/moadra-tips",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Mobility and survivability upgrades come first because escaping a bad fight beats trying to win it."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Weapon damage is the next step: shorter fights leave fewer chances to make a mistake."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Traversal and utility abilities open shortcuts and make backtracking across Protea VI faster."
+            },
+            {
+              "label": "C",
+              "detail": "Specialized tools are situational, but they answer specific threats and blocked routes."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/moadra-tier-list",
-          "displayType": "tier-grid",
+          "name": "Moadra Boss Guide",
+          "description": "Prepare for multi-phase encounters with full resources, arena scans, readable telegraphs, and a controlled plan for phase transitions.",
+          "href": "/combat/moadra-boss-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Scout",
+              "detail": "Use a scout run to watch attack patterns without chasing damage."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Scan",
+              "detail": "X-ray scan the arena for hazards, ledges, and safe zones before engaging."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Phases",
+              "detail": "Create distance at each transition, learn the new pattern, then look for damage windows."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/moadra-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Moadra Map and Secrets",
+          "description": "Read Protea VI like a puzzle by scanning rooms, checking suspicious surfaces, and returning with the traversal tools that turn dead ends into shortcuts.",
+          "href": "/guide/moadra-walkthrough",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Walls",
+              "detail": "Test long blank walls with jumps and wall jumps for hidden vertical routes."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Ceilings",
+              "detail": "Check ceiling corners and cracked surfaces for breakable passages."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Map Gaps",
+              "detail": "Open the map after major rooms and investigate gaps between explored areas."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/moadra-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Moadra Weapons and Combat Guide",
+          "description": "Build a reliable combat rhythm around spacing, telegraphs, ranged options, and the full movement kit instead of trading hits.",
+          "href": "/combat/moadra-boss-fight",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Spacing",
+              "detail": "Fight in open rooms and keep roll, dodge, and wall-jump routes available."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Telegraph",
+              "detail": "React to the wind-up rather than the strike, then punish the recovery."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Arsenal",
+              "detail": "Use ranged and melee tools together instead of saving every option for a later boss."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/moadra-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Moadra Controls and Settings",
+          "description": "Check input support, tune accessibility options, and set up the control scheme before precision platforming raises the cost of a missed input.",
+          "href": "/guide/moadra-demo-walkthrough",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Input",
+              "detail": "Xbox, DualSense, and DualShock gamepads are supported, with DualShock listed as USB only."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Text",
+              "detail": "Adjustable text size and subtitle options keep scanner data and story dialogue readable."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "QTE-free",
+              "detail": "Enable the QTE-free option to remove quick-time-event inputs from the campaign."
+            },
+            {
+              "label": "Audio",
+              "detail": "Use per-channel volume controls to keep enemy audio cues audible over music."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Moadra System Requirements",
+          "description": "Compare the minimum and recommended PC specifications for Moadra, including Windows, memory, graphics, DirectX, and storage.",
+          "href": "/platforms/moadra-steam",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Min",
+              "detail": "Windows 10 or 11 64-bit, a quad-core processor, 4 GB RAM, and a GTX 900-series card."
+            },
+            {
+              "label": "Rec",
+              "detail": "Windows 10 or 11 64-bit, an Intel Core i3-8100, 8 GB RAM, and a GTX 970 4GB."
+            },
+            {
+              "label": "Deck",
+              "detail": "Moadra is Steam Deck Verified and needs 9 GB of available storage on PC."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Moadra News and Updates",
+          "description": "Follow the October 22, 2026 launch, platform availability, the updated demo, and future Moadra patch notes through the official news channels.",
+          "href": "/community/moadra-game-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Launch",
+              "detail": "Moadra launched on October 22, 2026 for PS5, Xbox Series, Switch, and PC via Steam."
+            },
+            {
+              "label": "Demo",
+              "detail": "The free Steam demo received the same improvements as the launch build."
+            },
+            {
+              "label": "Patch",
+              "detail": "Track balance changes and gameplay updates through Gloomsoft's official channels and storefront patch notes."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Moadra.",
+      "title": "Moadra FAQ",
+      "description": "Direct answers about Moadra's setting, platforms, progression, scanner, difficulty, and demo.",
       "items": [
         {
           "question": "What is Moadra?",
-          "answer": "Moadra is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Moadra is a dark sci-fi Metroidvania from Gloomsoft. It is set on Protea VI roughly 20,000 years after an extinction event and follows a search for lost Neera heritage through an interconnected alien world."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which platforms can play Moadra?",
+          "answer": "Moadra launched on October 22, 2026 for PlayStation 5, Xbox Series, Nintendo Switch, and PC through Steam."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How does progression work in Moadra?",
+          "answer": "Destroyed organisms drop Protoplasm. Moadra absorbs it and spends it inside organic chambers to trigger metamorphosis, evolving weapons and abilities."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What does the scanner bot do in Moadra?",
+          "answer": "The Moadra scanner bot uses X-ray vision to inspect creatures and terrain, reveal hidden paths, and help map explored areas of Protea VI."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is Moadra a difficult game?",
+          "answer": "Moadra is built around difficult, evasive combat and precision platforming. Its movement kit, accessibility settings, and upgrade loop give players tools to manage encounters."
+        },
+        {
+          "question": "Does Moadra have a demo?",
+          "answer": "Yes. A free Moadra demo is available on Steam and was updated with the same improvements included in the launch build."
         }
       ]
     },
@@ -341,7 +377,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "playOnSteam": "Play on Steam",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
